@@ -20,10 +20,11 @@ Here are some ideas to get you started:
 <a href="" target="_blank"><img src="https://img.shields.io/badge/tastekim@kakao.com-fdcb6e?style=flat&logo=gmail&logoColor=FFFFFF"/></a>
 
 <p>i'm studying in Hanghae99🚢<p>
-  
+  <br>
+  <br>
 <p>Interested in Javascript, Node.js<p>
-  
-  
+  <br>
+  <br>
 <p>and I'll never stop studying to become a better developer than now🔥<p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tastekim&show_icons=true&theme=radical)
