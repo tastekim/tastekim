@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://tastekim-oneul.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/BLOG-00cec9?style=flat&logo=tistory&logoColor=FFFFFF"/></a>
+<a href="https://www.instagram.com/tastekim_" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-fab1a0?style=flat&logo=instagram&logoColor=FFFFFF"/></a>
+
