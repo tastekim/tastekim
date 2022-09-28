@@ -1,4 +1,4 @@
-# Hello, world !
+# ```Hello, world !```
 
   
 <a href="https://velog.io/@tastekim_" target="_blank"><img src="https://img.shields.io/badge/BLOG-00cec9?style=flat&logo=velog&logoColor=FFFFFF"/></a>
@@ -7,7 +7,7 @@
   
   
 #### 🎯함께 일하고 싶은 개발자가 되도록 노력하자
-  안녕하세요 ! Javascript와 node.js 를 공부중인 **tastekim** 입니다.🤗  
+> 안녕하세요 ! Javascript와 node.js 를 공부중인 **tastekim** 입니다.🤗  
   함께 일하고 싶은 스스로 생각하고 고민하는 개발자가 되도록 노력중입니다.
   모든 피드백은 환영합니다 !  
     
@@ -21,6 +21,8 @@
 * ### <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white">
 
   
+  
+    
 ## 🫂공부중인 협업 툴
 * ###<img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white">
 * ###<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon%20AWS&logoColor=white">
