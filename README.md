@@ -14,7 +14,7 @@
       
 ## 공부중인 기술 스택
 * ### <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black">
-* ### 
+* ### <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=javascript&logoColor=white">
   
 
 
