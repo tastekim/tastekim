@@ -22,5 +22,6 @@
 * ### <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white">
 * ### <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon%20AWS&logoColor=white">  
 * ### <img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat&logo=Notion&logoColor=black">
+* ### <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=black">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tastekim&show_icons=true&theme=radical)
