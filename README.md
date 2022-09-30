@@ -1,5 +1,5 @@
 # ```Hello, world !```  
-<a href="https://velog.io/@tastekim_" target="_blank"><img src="https://img.shields.io/badge/BLOG-00cec9?style=flat&logo=velog&logoColor=FFFFFF"/></a>
+<a href="https://tastekim.notion.site/tastekim/tastekim_Devlog-fe856eb9ac6e416db3807c12fcab39c5" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=FFFFFF"/></a>
 <a href="https://www.instagram.com/tastekim_" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-fab1a0?style=flat&logo=instagram&logoColor=FFFFFF"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/tastekim@kakao.com-fdcb6e?style=flat&logo=gmail&logoColor=FFFFFF"/></a>  
 
