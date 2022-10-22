@@ -24,3 +24,4 @@
 * ### <img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat&logo=Notion&logoColor=black">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tastekim&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tastekim)
