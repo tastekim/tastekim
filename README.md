@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tastekim&label=Profile%20views&color=0e75b6&style=flat" alt="tastekim" /> </p>
+
 # ```Hello, world !```  
 <a href="https://tastekim.notion.site/tastekim/tastekim_Devlog-fe856eb9ac6e416db3807c12fcab39c5" target="_blank"><img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat&logo=Notion&logoColor=black"/></a>
 <a href="https://www.instagram.com/tastekim_" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-fab1a0?style=flat&logo=instagram&logoColor=FFFFFF"/></a>
@@ -8,6 +10,7 @@
 > 안녕하세요 ! Javascript와 node.js 를 공부중인 **tastekim** 입니다.🤗  
   함께 일하고 싶은 스스로 생각하고 고민하는 개발자가 되도록 노력중입니다.
   모든 피드백은 환영합니다 !  
+
 
 ## 💻공부중인 기술 스택
 * ### <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black">
@@ -22,10 +25,16 @@
 * ### <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white">
 * ### <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon%20AWS&logoColor=white">  
 * ### <img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat&logo=Notion&logoColor=black">
-
+  
+  
+  
+    
+    <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tastekim" alt="tastekim" /></a> </p>
+    
 |STATS|LANGUAGES|
 |---|---|
 |![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tastekim&show_icons=true&theme=radical)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tastekim)|
-
+  
+  
 
 
