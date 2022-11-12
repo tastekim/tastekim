@@ -25,15 +25,7 @@
 * ### <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white">
 * ### <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon%20AWS&logoColor=white">  
 * ### <img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat&logo=Notion&logoColor=black">
-  
-  
-  
-    
-    <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tastekim" alt="tastekim" /></a> </p>
-    
-|STATS|LANGUAGES|
-|---|---|
-|![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tastekim&show_icons=true&theme=radical)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tastekim)|
+
   
   
 
