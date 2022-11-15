@@ -7,25 +7,30 @@
 
 ## 🎯같이 밥먹고 싶은 개발자가 되도록 노력하자  
 
-> 안녕하세요 ! Javascript와 node.js 를 공부중인 **tastekim** 입니다.🤗  
+> 안녕하세요 ! 백엔드 개발자가 되기 위해 공부중인 **tastekim** 입니다.🤗  
   함께 일하고 싶은 스스로 생각하고 고민하는 개발자가 되도록 노력중입니다.
   모든 피드백은 환영합니다 !  
+```javascript
+class TasteKim {
+    stacks = {
+        Nodejs  : ["express"],
+        DB      : ["MySQL", "mongoDB", "redis"],
+        devtools: ["git", "AWS", "slack"]
+    };
+
+    interested = ["typescript", "Nest.js"];
+
+    skill = async (err) => {
+        let result = await Enjoy.resolve(err);
+        result += Study.hard(whatever);
+        return result;
+    };
+}
+
+module.exports = TasteKim;
+```
 
 
-## 💻공부중인 기술 스택
-* ### <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black">
-* ### <img src="https://img.shields.io/badge/Node.Js-339933?style=flat&logo=Node.Js&logoColor=white">
-* ### <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white"> 
-* ### <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=Typescript&logoColor=white">
-* ### <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white">  
-* ### <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"> 
-
-
-## 🫂공부중인 협업 툴
-* ### <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white">
-* ### <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon%20AWS&logoColor=white">  
-* ### <img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat&logo=Notion&logoColor=black">
-----
 ## 🤝진행한 프로젝트s
 - [We All Lie - 보드게임 '스파이 폴'을 모티브로 한 비대면 보드게임 서비스](https://github.com/tastekim/WeAllLie-BE)
 
