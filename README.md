@@ -14,11 +14,12 @@
 class TasteKim {
     stacks = {
         Nodejs  : ["express"],
-        DB      : ["MySQL", "mongoDB", "redis"],
-        devtools: ["git", "AWS", "slack"]
+        DB      : ["MySQL", "mongoDB", "redis", "Sequelize", "mongoose"],
+        devtools: ["github", "notion", "slack"],
+        cloud   : ["AWS", "docker", "Nginx"]
     };
 
-    interested = ["typescript", "Nest.js"];
+    interested = ["Typescript", "Nest.js"];
 
     skill = async (err) => {
         let result = await Enjoy.resolve(err);
@@ -30,6 +31,10 @@ class TasteKim {
 module.exports = TasteKim;
 ```
 ![snake gif](https://github.com/tastekim/tastekim/blob/output/github-contribution-grid-snake.svg)
-## 🤝진행한 프로젝트s
+<!-- ## 🤝진행한 프로젝트s
 - [We All Lie - 보드게임 '스파이 폴'을 모티브로 한 비대면 보드게임 서비스](https://github.com/tastekim/WeAllLie-BE)
+ -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tastekim&hide=html,css&langs_count=10&layout=compact&theme=dark)](https://github.com/tastekim/tastekim)
+
+
 
