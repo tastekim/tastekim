@@ -19,7 +19,8 @@ class TasteKim {
         cloud   : ["AWS", "docker", "Nginx"]
     };
 
-    interested = ["Typescript", "Nest.js"];
+    interested = ["Nest.js"];
+    studying = ["Koa.js", "Firebase", "Typescript"];
 
     skill = async (err) => {
         let result = await Enjoy.resolve(err);
