@@ -13,14 +13,14 @@
 ```javascript
 class TasteKim {
     stacks = {
-        Nodejs  : ["express"],
-        DB      : ["MySQL", "mongoDB", "redis", "Sequelize", "mongoose"],
+        Language: ["Javascript", "Typescript"],
+        Nodejs  : ["Express.js", "Koa.js"],
+        DB      : ["MySQL", "mongoDB", "redis", "Sequelize", "mongoose", "Firestore"],
         devtools: ["github", "notion", "slack"],
         cloud   : ["AWS", "docker", "Nginx"]
     };
 
     interested = ["Nest.js"];
-    studying = ["Koa.js", "Firebase", "Typescript"];
 
     skill = async (err) => {
         let result = await Enjoy.resolve(err);
