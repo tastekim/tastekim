@@ -19,8 +19,8 @@ class TasteKim {
         devtools: ["github", "notion", "slack"],
         cloud   : ["AWS", "docker", "Nginx"]
     };
-
-    interested = ["Nest.js"];
+    
+    interested = ["Nest.js", "Swift"];
 
     skill = async (err) => {
         let result = await Enjoy.resolve(err);
