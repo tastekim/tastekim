@@ -17,7 +17,7 @@ class TasteKim {
         Nodejs  : ["Express.js", "Koa.js"],
         DB      : ["MySQL", "mongoDB", "redis", "Sequelize", "mongoose", "Firestore"],
         devtools: ["github", "notion", "slack"],
-        cloud   : ["AWS", "docker", "Nginx"]
+        cloud   : ["AWS", "docker", "Nginx", "AWS Lambdafunction"]
     };
     
     interested = ["Nest.js", "Swift", "Python"];
