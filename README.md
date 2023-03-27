@@ -11,7 +11,7 @@
   함께 일하고 싶은 스스로 생각하고 고민하는 개발자가 되도록 노력중입니다.
   모든 피드백은 환영합니다 !  
 ```javascript
-class TasteKim {
+export default class TasteKim {
     stacks = {
         Language: ["Javascript", "Typescript"],
         Nodejs  : ["Express.js", "Koa.js"],
@@ -27,9 +27,7 @@ class TasteKim {
         result += Study.hard(whatever);
         return result;
     };
-}
-
-module.exports = TasteKim;
+};
 ```
 ![snake gif](https://github.com/tastekim/tastekim/blob/output/github-contribution-grid-snake.svg)
 
