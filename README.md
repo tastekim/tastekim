@@ -16,9 +16,15 @@ export default class TasteKim {
         Language: ["Javascript", "Typescript"],
         Nodejs  : ["Express.js", "Koa.js"],
         DB      : ["MySQL", "mongoDB", "redis", "Sequelize", "mongoose", "Firestore"],
-        devtools: ["github", "notion", "slack"],
-        cloud   : ["AWS", "docker", "Nginx", "AWS Lambdafunction"]
+        devtools: ["github", "notion", "slack", "Linear"],
+        cloud   : ["AWS", "docker", "AWS Lambdafunction"],
+        other   : ["Nginx"],
     };
+    
+    studying = {
+        Language : ["Dart"],
+        Framework: ["Flutter"],
+    }
     
     interested = ["Nest.js", "Swift", "Python"];
 
