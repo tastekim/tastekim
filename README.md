@@ -37,7 +37,7 @@ export default class TasteKim {
 ```
 ![snake gif](https://github.com/tastekim/tastekim/blob/output/github-contribution-grid-snake.svg)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tastekim&hide=html,css,dockerfile&langs_count=10&layout=compact&theme=dark)](https://github.com/tastekim/tastekim)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tastekim&hide=html,css,dockerfile,javascript&langs_count=10&layout=compact&theme=dark)](https://github.com/tastekim/tastekim)
 
 
 
