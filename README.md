@@ -16,7 +16,7 @@ export default class TasteKim {
         Language: ["Javascript", "Typescript"],
         Nodejs  : ["Express.js", "Koa.js"],
         DB      : ["MySQL", "mongoDB", "redis", "Sequelize", "mongoose", "Firestore"],
-        devtools: ["github", "notion", "slack", "Linear"],
+        devtools: ["github", "notion", "slack", "Linear", "Obsidian"],
         cloud   : ["AWS", "docker", "AWS Lambdafunction"],
         other   : ["Nginx"],
     };
