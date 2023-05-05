@@ -38,10 +38,10 @@ export default class TasteKim {
 
 ### 👣 발자취
 - 2022.11~2022.12 : 항해99 project [repository](https://github.com/tastekim/WeAllLie-BE)
-- 2023.01~2023.02 : K-일러스트레이션페어 서울 3D Rednering [blog](https://tastekim.notion.site/WIL-Photogrammetry-2023-K-bca68e97baae4976881e93677f80af98)
+- 2023.01~2023.02 : [CONCAT] K-일러스트레이션페어 서울 3D Rednering [blog](https://tastekim.notion.site/WIL-Photogrammetry-2023-K-bca68e97baae4976881e93677f80af98)
 - 2023.02~2023.02 : 태오의 스프린트 [repository](https://github.com/TEAM-DREAMCATCHER)
 - 2023.02~2023.04 : SW Camp project [disquiet*](https://disquiet.io/product/%EC%9C%A0%EB%A0%89%EC%B9%B4-1679901595623)
-- 2023.03~2023.07 : [CONCAT]AAI-Healthcare Application Outsourcing(진행중)
+- 2023.03~2023.07 : [CONCAT] AAI-Healthcare Application Outsourcing(진행중)
 
 ![snake gif](https://github.com/tastekim/tastekim/blob/output/github-contribution-grid-snake.svg)
 
