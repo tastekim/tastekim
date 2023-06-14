@@ -7,3 +7,4 @@
 - 2023.02~2023.04 : SW Camp project [disquiet*](https://disquiet.io/product/%EC%9C%A0%EB%A0%89%EC%B9%B4-1679901595623)
 - 2023.03~2023.07 : [CONCAT] AAI-Healthcare Application Outsourcing(진행중)
 - 2023.05~2023.06 : 새싹톤(sba & SeSAC & goorm) Project(진행중) [notion](https://www.notion.so/c3cc0ba7d2654207ae817eccb1fd81ec?pvs=4)
+- 2023.06~        : J-CURVE BRIDGE(넥업) 합류
