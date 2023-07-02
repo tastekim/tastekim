@@ -1,4 +1,30 @@
-![Metrics](https://metrics.lecoq.io/tastekim?template=classic&isocalendar=1&languages=1&followup=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.ignored=html%2Ccss%2Cjavascript%2Cpython%2Cswift&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&followup=false&followup.sections=repositories&followup.indepth=false&followup.archived=true&config.timezone=Asia%2FSeoul)
+# Tastekim(맛김)
+> Give me six hours to chop down a tree and I will spend the first four sharpening the axe. - _Abraham Lincoln_
+```typescript
+export default class TasteKim {
+    stacks = {
+        Language: ["Javascript", "Typescript"],
+        Nodejs  : ["Express.js", "Koa.js"],
+        DB      : ["MySQL", "mongoDB", "redis", "Sequelize", "mongoose", "Firestore"],
+        devtools: ["github", "notion", "slack", "Linear", "Obsidian"],
+        cloud   : ["AWS", "GCP"],
+    };
+    
+    studying = {
+        Language : ["Dart", "Go"],
+        Framework: ["Flutter"],
+    }
+    
+    interested = ["Nest.js", "Swift"];
+
+    skill = async (err) => {
+        let result = await Enjoy.resolve(err);
+        result += Study.hard(whatever);
+        return result;
+    };
+};
+```
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tastekim&hide=javascript,html,python,swift,procfile,dockerfile,css&langs_count=10&layout=compact)]()
 
 ### 👣 발자취
 - 2022.11~2022.12 : 항해99 project [repository](https://github.com/tastekim/WeAllLie-BE)
