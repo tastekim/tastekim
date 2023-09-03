@@ -35,3 +35,4 @@ export default class TasteKim {
 - 2023.05~2023.06 : 새싹톤(sba & SeSAC & goorm) Project [notion](https://www.notion.so/c3cc0ba7d2654207ae817eccb1fd81ec?pvs=4)
 - 2023.06~0000.00 : J-CURVE BRIDGE(넥업) 합류 [Neckup!](https://neckup.fitness)
 - 2023.06~2023.06 : 태오의 스프린트 15기 [repository](https://github.com/Naughty-ya)
+- 2023.09.02 : 소주톤 얼레벌레 바캉스(부산)
