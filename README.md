@@ -13,6 +13,7 @@ export default class TasteKim {
     studying = {
         Language : ["Dart", "Go"],
         Framework: ["Flutter"],
+        etc      : ["gRPC"],
     }
     
     interested = ["Nest.js", "Swift"];
