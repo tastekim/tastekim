@@ -25,7 +25,7 @@ export default class TasteKim {
     };
 };
 ```
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tastekim&hide=javascript,html,python,swift,procfile,dockerfile,shell,css&langs_count=10&layout=compact)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tastekim&hide=javascript,html,ruby,objective-c,python,swift,procfile,dockerfile,shell,css&langs_count=10&layout=compact)]()
 
 ### 👣 2022
 - 2022.11~2022.12 : 항해99 project [repository](https://github.com/tastekim/WeAllLie-BE)
