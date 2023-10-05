@@ -39,5 +39,5 @@ export default class TasteKim {
 - 2023.06~0000.00 : J-CURVE BRIDGE(넥업) 합류 [Neckup!](https://neckup.fitness)
 - 2023.06~2023.06 : 태오의 스프린트 15기 [repository](https://github.com/Naughty-ya)
 - 2023.09.02 : 소주톤 얼레벌레 바캉스(부산)
-- 2023.09~2023.09 : 2023 항해커톤 [repository](https://github.com/LMS-horangEDU)
-- 2023.09~2023.10 : 제 1회 항해 플러스 코육대 [repository](https://github.com/Hanghae-Athletic-TETRIS) / [web](https://hanghae-bae7d.web.app/) 버전
+- 2023.09~2023.09 : 2023 기업과제 항해커톤 대상 수상 [repository](https://github.com/LMS-horangEDU)
+- 2023.09~2023.10 : 제1회 항해 플러스 1인개발 코육대 [repository](https://github.com/Hanghae-Athletic-TETRIS) / [web](https://hanghae-bae7d.web.app/) 버전
