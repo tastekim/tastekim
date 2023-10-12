@@ -41,3 +41,4 @@ export default class TasteKim {
 - 2023.09.02 : 소주톤 얼레벌레 바캉스(부산) 수상
 - 2023.09~2023.09 : 2023 기업과제 항해커톤 대상 수상 [repository](https://github.com/LMS-horangEDU) / [보도자료](https://www.aitimes.com/news/articleView.html?idxno=154150)
 - 2023.09~2023.10 : 제1회 항해 플러스 1인개발 코육대 [repository](https://github.com/Hanghae-Athletic-TETRIS) / [web](https://hanghae-bae7d.web.app/) 버전 / [앱스토어](https://apps.apple.com/kr/app/%EB%84%88%EB%8F%84%EB%82%98%EB%8F%84-%ED%85%8C%ED%8A%B8%EB%A6%AC%EC%8A%A4/id6468504024)
+- 2023.10~2023.10 : Bonfire(flutter package) 한글 번역 컨트리뷰터 [Bonfire document site](https://github.com/bonfire-engine/bonfire-engine.github.io)
