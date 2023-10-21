@@ -45,3 +45,4 @@ export default class TasteKim {
 - 2023.09~2023.12 : [CONCAT] AAI-Healthcare Chatbot Outsourcing 진행중
 - 2023.10~2023.12 : [CONCAT] AAI-Healthcare Underwritng Outsourcing 진행중
 - 2023.10~2023.12 : [CONCAT] BLE project 진행중
+- 2023.10~2023.10 : 태오의 스프린트 16기 [repository](https://github.com/taeo-sprint16/backend.git)
