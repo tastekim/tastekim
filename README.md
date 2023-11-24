@@ -6,6 +6,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tastekim&hide=javascript,html,ruby,objective-c,python,swift,procfile,dockerfile,shell,css&langs_count=10&layout=compact)]()
 
+### 💡 Contribute
+* npm @tastekim/url-shortener 제작 [@tastekim/url-shortener](https://www.npmjs.com/package/@tastekim/url-shortener)
+* Bonfire(flutter flame 기반 2D 게임엔진) 공식 문서 한글 번역 [Bonfire documents](https://github.com/bonfire-engine/bonfire-engine.github.io) / [PR](https://github.com/bonfire-engine/bonfire-engine.github.io/pull/11)
+
 ### 👣 2022
 - 2022.11~2022.12 : 항해99 project [repository](https://github.com/tastekim/WeAllLie-BE)
 
