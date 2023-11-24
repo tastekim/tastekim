@@ -1,30 +1,9 @@
 # Tastekim(맛김)
 > Give me six hours to chop down a tree and I will spend the first four sharpening the axe. - _Abraham Lincoln_
-```typescript
-export default class TasteKim {
-    stacks = {
-        Language: ["Javascript", "Typescript"],
-        Nodejs  : ["Express.js", "Koa.js"],
-        DB      : ["MySQL", "mongoDB", "redis", "Sequelize", "mongoose", "Firestore"],
-        devtools: ["github", "notion", "slack", "Linear", "Obsidian"],
-        cloud   : ["AWS", "GCP"],
-    };
-    
-    studying = {
-        Language : ["Dart", "Go"],
-        Framework: ["Flutter"],
-        etc      : ["gRPC"],
-    }
-    
-    interested = ["Nest.js", "Swift"];
+> <br>
+> 나무를 베기 위해 여섯 시간이 주어진다면, 처음 네 시간은 도끼를 갈며 보낼 것이다.
 
-    skill = async (err) => {
-        let result = await Enjoy.resolve(err);
-        result += Study.hard(whatever);
-        return result;
-    };
-};
-```
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tastekim&hide=javascript,html,ruby,objective-c,python,swift,procfile,dockerfile,shell,css&langs_count=10&layout=compact)]()
 
 ### 👣 2022
