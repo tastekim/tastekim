@@ -38,4 +38,4 @@
 
 ### 👣 2024
 - 2024.01~2024.05 : FITMILY Outsourcing 진행중
-- 2023.11~2024.02 : Flutter 개인 프로젝트 (스도쿠 - DOKUDOKU) [App store](https://apps.apple.com/kr/app/%EC%8A%A4%EB%8F%84%EC%BF%A0-dokudoku/id6475877591) / [Google Play Store]()
+- 2023.11~2024.02 : Flutter 개인 프로젝트 (스도쿠 - DOKUDOKU) [App store](https://apps.apple.com/kr/app/%EC%8A%A4%EB%8F%84%EC%BF%A0-dokudoku/id6475877591) / [Google Play Store](https://play.google.com/store/apps/details?id=and.game.tastekimsudoku)
