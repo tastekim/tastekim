@@ -25,9 +25,9 @@
 - 2023.09~2023.09 : 2023 기업과제 항해커톤 대상 수상 [repository](https://github.com/LMS-horangEDU) / [보도자료](https://www.aitimes.com/news/articleView.html?idxno=154150)
 - 2023.09~2023.10 : 제1회 항해 플러스 1인개발 코육대 [repository](https://github.com/Hanghae-Athletic-TETRIS) / [web](https://hanghae-bae7d.web.app/) 버전 / [앱스토어](https://apps.apple.com/kr/app/%EB%84%88%EB%8F%84%EB%82%98%EB%8F%84-%ED%85%8C%ED%8A%B8%EB%A6%AC%EC%8A%A4/id6468504024)
 - 2023.10~2023.10 : Bonfire(flutter package) 한글 번역 컨트리뷰터 [Bonfire document site](https://github.com/bonfire-engine/bonfire-engine.github.io)
-- 2023.09~2023.12 : [CONCAT] AAI-Healthcare Chatbot Outsourcing 진행중
-- 2023.10~2023.12 : [CONCAT] AAI-Healthcare Underwritng Outsourcing 진행중
-- 2023.10~2023.12 : [CONCAT] BLE project 진행중
+- 2023.09~2024.02 : [CONCAT] AAI-Healthcare Chatbot Outsourcing 진행중
+- 2023.10~2024.03 : [CONCAT] AAI-Healthcare Underwritng Outsourcing 진행중
+- 2023.10~0000.00 : [CONCAT] BLE project 진행중
 - 2023.10~2023.10 : 태오의 스프린트 16기 [repository](https://github.com/taeo-sprint16/backend.git)
 
 
