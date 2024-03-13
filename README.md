@@ -11,13 +11,11 @@
 * Bonfire(flutter flame 기반 2D 게임엔진) 공식 문서 한글 번역 [Bonfire documents](https://github.com/bonfire-engine/bonfire-engine.github.io) / [PR](https://github.com/bonfire-engine/bonfire-engine.github.io/pull/11)
 
 <details>
-  <summary><h3>👣 2022 발자취</h3></summary>
-
+  <summary><span>👣 2022 발자취</span></summary>
   - 2022.11~2022.12 : 항해99 project [repository](https://github.com/tastekim/WeAllLie-BE)
 </details>
 <details>
-  <summary><h3>👣 2023 발자취</h3></summary>
-
+  <summary><span>👣 2023 발자취</span></summary>
   - 2023.01~2023.02 : [CONCAT] K-일러스트레이션페어 서울 3D Rednering [blog](https://tastekim.notion.site/WIL-Photogrammetry-2023-K-bca68e97baae4976881e93677f80af98)
 - 2023.02~2023.02 : 태오의 스프린트 14기 [repository](https://github.com/TEAM-DREAMCATCHER)
 - 2023.02~2023.04 : SW Camp project(유렉카 - UTM build & managing service)(정주영 창업경진대회 1차 통과) [disquiet*](https://disquiet.io/product/%EC%9C%A0%EB%A0%89%EC%B9%B4-1679901595623)
