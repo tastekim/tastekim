@@ -6,6 +6,13 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tastekim&hide=javascript,html,ruby,objective-c,python,swift,procfile,dockerfile,shell,css&langs_count=10&layout=compact)]()
 
+### 🔨 Stack
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+ <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white"> <img src="https://img.shields.io/badge/koa-33333D?style=for-the-badge&logo=koa&logoColor=white"> <img src="https://img.shields.io/badge/fastify-000000?style=for-the-badge&logo=fastify&logoColor=white"> <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"> <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"> <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+
+### 👀 Interest
+<img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white">
+
 ### 💡 Contribute
 * npm @tastekim/url-shortener 제작 [@tastekim/url-shortener](https://www.npmjs.com/package/@tastekim/url-shortener)
 * Bonfire(flutter flame 기반 2D 게임엔진) 공식 문서 한글 번역 [Bonfire documents](https://github.com/bonfire-engine/bonfire-engine.github.io) / [PR](https://github.com/bonfire-engine/bonfire-engine.github.io/pull/11)
