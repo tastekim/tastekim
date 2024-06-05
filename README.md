@@ -14,31 +14,31 @@
 <img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white">
 
 ### 💡 Contribute
-* npm @tastekim/url-shortener 제작 [@tastekim/url-shortener](https://www.npmjs.com/package/@tastekim/url-shortener)
-* Bonfire(flutter flame 기반 2D 게임엔진) 공식 문서 한글 번역 [Bonfire documents](https://github.com/bonfire-engine/bonfire-engine.github.io) / [PR](https://github.com/bonfire-engine/bonfire-engine.github.io/pull/11)
+* Developed the npm package [@tastekim/url-shortener](https://www.npmjs.com/package/@tastekim/url-shortener)
+* Translated the official documentation for Bonfire (a Flutter flame-based 2D game engine) into Korean [Bonfire documents](https://github.com/bonfire-engine/bonfire-engine.github.io) / [PR](https://github.com/bonfire-engine/bonfire-engine.github.io/pull/11)
 
-### 👣 2022 발자취
-- 2022.11~2022.12 : 항해99 project [repository](https://github.com/tastekim/WeAllLie-BE)
+### 👣 2022 Milestones
+- Nov 2022 - Dec 2022: [BootCamp] Hange99 project [repository](https://github.com/tastekim/WeAllLie-BE)
 
-### 👣 2023 발자취
-- 2023.01~2023.02 : [CONCAT] K-일러스트레이션페어 서울 True depth 3D scanner project [blog](https://tastekim.notion.site/WIL-Photogrammetry-2023-K-bca68e97baae4976881e93677f80af98)
-- 2023.02~2023.02 : 태오의 스프린트 14기 [repository](https://github.com/TEAM-DREAMCATCHER)
-- 2023.02~2023.04 : SW Camp project(유렉카 - UTM build & managing service)(정주영 창업경진대회 1차 통과) [disquiet*](https://disquiet.io/product/%EC%9C%A0%EB%A0%89%EC%B9%B4-1679901595623)
-- 2023.03~2023.07 : [CONCAT] AAI-Healthcare Application Outsourcing 참여[App store](https://apps.apple.com/kr/app/%EC%95%94%ED%96%89%EC%96%B4%EC%82%AC-%EB%82%98%EC%9D%98-%EA%B1%B4%EA%B0%95-%EC%9C%A0%ED%98%95%EC%9D%80/id6450022222) / [Google play](https://play.google.com/store/apps/details?id=com.aaihc.amhaengeosa&hl=ko-KR&pli=1)
-- 2023.05~2023.06 : 새싹톤(sba & SeSAC & goorm) 본선 Project [notion](https://www.notion.so/c3cc0ba7d2654207ae817eccb1fd81ec?pvs=4)
-- 2023.06~0000.00 : J-CURVE BRIDGE(넥업) 합류 [Neckup!](https://neckup.fitness)
-- 2023.06~2023.06 : 태오의 스프린트 15기 [repository](https://github.com/Naughty-ya)
-- 2023.09.02 : 소주톤 얼레벌레 바캉스(부산) 수상
-- 2023.09~2023.09 : 2023 기업과제 항해커톤 대상 수상 [repository](https://github.com/LMS-horangEDU) / [보도자료](https://www.aitimes.com/news/articleView.html?idxno=154150)
-- 2023.09~2023.10 : 제1회 항해 플러스 1인개발 코육대 [repository](https://github.com/Hanghae-Athletic-TETRIS) / [web](https://hanghae-bae7d.web.app/) 버전 / [앱스토어](https://apps.apple.com/kr/app/%EB%84%88%EB%8F%84%EB%82%98%EB%8F%84-%ED%85%8C%ED%8A%B8%EB%A6%AC%EC%8A%A4/id6468504024)
-- 2023.10~2023.10 : Bonfire(flutter package) 한글 번역 컨트리뷰터 [Bonfire document site](https://github.com/bonfire-engine/bonfire-engine.github.io)
-- 2023.09~2024.02 : [CONCAT] AAI-Healthcare Chatbot Outsourcing
-- 2023.10~0000.00 : [CONCAT] BLE project 진행중
-- 2023.10~2023.10 : 태오의 스프린트 16기 [repository](https://github.com/taeo-sprint16/backend.git)
-
+### 👣 2023 Milestones
+- Jan 2023 - Feb 2023: Internal project for K-Illustration Fair Seoul True Depth 3D Scanner [blog](https://tastekim.notion.site/WIL-Photogrammetry-2023-K-bca68e97baae4976881e93677f80af98)
+- Feb 2023: [IT Community] Taeo's Sprint 14th session [repository](https://github.com/TEAM-DREAMCATCHER)
+- Feb 2023 - Apr 2023: [Side Project] SW Camp project (Eureka - UTM build & managing service) (Passed the 1st round of the Jung Ju-young Startup Competition) [disquiet*](https://disquiet.io/product/%EC%9C%A0%EB%A0%89%EC%B9%B4-1679901595623)
+- Mar 2023 - Jul 2023: Internal project for AAI-Healthcare Application Outsourcing [App store](https://apps.apple.com/kr/app/%EC%95%94%ED%96%89%EC%96%B4%EC%82%AC-%EB%82%98%EC%9D%98-%EA%B1%B4%EA%B0%95-%EC%9C%A0%ED%98%95%EC%9D%80/id6450022222) / [Google play](https://play.google.com/store/apps/details?id=com.aaihc.amhaengeosa&hl=ko-KR&pli=1)
+- May 2023 - Jun 2023: [Hackerthon] Finalist in Sesakthon (sba & SeSAC & goorm) [notion](https://www.notion.so/c3cc0ba7d2654207ae817eccb1fd81ec?pvs=4)
+- Jun 2023 - Ongoing: Joined J-CURVE BRIDGE (Neckup) [Neckup!](https://neckup.fitness)
+- Jun 2023: [IT Community] Taeo's Sprint 15th session [repository](https://github.com/Naughty-ya)
+- Sep 2, 2023: [Hackerthon] Winner at Soju-ton Early Bird Vacation (Busan)
+- Sep 2023: [Hackerthon] Winner at 2023 Corporate Task Hange-hackathon [repository](https://github.com/LMS-horangEDU) / [press release](https://www.aitimes.com/news/articleView.html?idxno=154150)
+- Sep 2023 - Oct 2023: [Hackerthon] First Hange Plus One-Person Development Contest [repository](https://github.com/Hanghae-Athletic-TETRIS) / [web](https://hanghae-bae7d.web.app/) version / [App Store](https://apps.apple.com/kr/app/%EB%84%88%EB%8F%84%EB%82%98%EB%8F%84-%ED%85%8C%ED%8A%B8%EB%A6%AC%EC%8A%A4/id6468504024)
+- Oct 2023: Contributor to the Korean translation of Bonfire (Flutter package) [Bonfire document site](https://github.com/bonfire-engine/bonfire-engine.github.io)
+- Sep 2023 - Feb 2024: Internal project for AAI-Healthcare Chatbot Outsourcing
+- Oct 2023 - Ongoing: Internal BLE project in progress
+- Oct 2023: [IT Community] Taeo's Sprint 16th session [repository](https://github.com/taeo-sprint16/backend.git)
 
 ### 👣 2024
-- 2024.01~2024.05 : FITMILY Outsourcing 진행중
-- 2023.11~2024.02 : Flutter 개인 프로젝트 (스도쿠 - DOKUDOKU) [App store](https://apps.apple.com/kr/app/%EC%8A%A4%EB%8F%84%EC%BF%A0-dokudoku/id6475877591) / [Google Play Store](https://play.google.com/store/apps/details?id=and.game.tastekimsudoku)
-- 2023.10~2024.04 : [CONCAT] AAI-Healthcare Underwritng Outsourcing 진행중
-- 2024.04~2024.04 : 테오의 스프린트 17기 운영팀 참여
+- Jan 2024 - May 2024: FITMILY Outsourcing project in progress
+- Nov 2023 - Feb 2024: [Side Project] Flutter project (Sudoku - DOKUDOKU) [App store](https://apps.apple.com/kr/app/%EC%8A%A4%EB%8F%84%EC%BF%A0-dokudoku/id6475877591) / [Google Play Store](https://play.google.com/store/apps/details?id=and.game.tastekimsudoku)
+- Oct 2023 - Apr 2024: Internal project for AAI-Healthcare Underwriting Outsourcing in progress
+- Apr 2024 - Apr 2024: [IT Community] Participated in operating team for Taeo's Sprint 17th session
+- May 2024 - ing : [IT Community] Participated in YAPP, an enterprise IT consortium
