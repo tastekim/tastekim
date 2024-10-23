@@ -3,8 +3,13 @@
 > <br>
 > 나무를 베기 위해 여섯 시간이 주어진다면, 처음 네 시간은 도끼를 갈며 보낼 것이다.
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tastekim&hide=javascript,html,ruby,objective-c,python,swift,procfile,dockerfile,shell,css&langs_count=10&layout=compact)]()
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/tastekim"
+  width="600"
+  height="300"
+/>
+</a>
 
 ### 🔨 Stack
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
