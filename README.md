@@ -46,4 +46,4 @@
 - Nov 2023 - Feb 2024: [Side Project] Flutter project (Sudoku - DOKUDOKU) [App store](https://apps.apple.com/kr/app/%EC%8A%A4%EB%8F%84%EC%BF%A0-dokudoku/id6475877591) / [Google Play Store](https://play.google.com/store/apps/details?id=and.game.tastekimsudoku)
 - Oct 2023 - Apr 2024: Internal project for AAI-Healthcare Underwriting Outsourcing in progress
 - Apr 2024 - Apr 2024: [IT Community] Participated in operating team for Taeo's Sprint 17th session
-- May 2024 - ing : [IT Community] Participated in YAPP, an enterprise IT consortium
+- May 2024 - Sep 2024 : [IT Community] Participated in YAPP, an enterprise IT consortium
