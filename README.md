@@ -32,6 +32,7 @@
 ### 💡 Contribute
 * Developed the npm package [@tastekim/url-shortener](https://www.npmjs.com/package/@tastekim/url-shortener)
 * Translated the official documentation for Bonfire (a Flutter flame-based 2D game engine) into Korean [Bonfire documents](https://github.com/bonfire-engine/bonfire-engine.github.io) / [PR](https://github.com/bonfire-engine/bonfire-engine.github.io/pull/11)
+* Contributed as an inventor to a patent application entitled "Server and method of operation for recommending suitable insurance products to insured persons, including pre-existing conditions, using medical record information. [KiPRIS](https://www.kipris.or.kr/khome/main.do)
 
 ---
 
